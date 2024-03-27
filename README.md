@@ -31,11 +31,15 @@ From LoanOfficer, we switch to a more internal focus on the databse. LoanOfficer
 
 DATA DICTIONARY:
 ---------------------
+Table: Client
 
+
+Table: CreditScore
+<img width="329" alt="Screenshot 2024-03-26 at 8 35 59 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/92a01e1d-2a73-4973-a12e-eb43889bbbb2">
 
 QUERIES:
 -----------
 
 
-DATABASE INFORMATION:
+
 -------
