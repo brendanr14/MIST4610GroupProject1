@@ -8,13 +8,15 @@ TEAM MEMBERS:
 -------------------------
 1. Brendan Rice
 2. Roshan Maganti
-3. Areez Shaikh
+3. Areez Shaikh | https://github.com/areezshaikh/MIST4610
 4. Jack Gannon
 5. Brayden Keller
 6. Ella Gunning
 
 PROBLEM DESCRIPTION:
 -------------------------
+Situation: Pretend you are the owner/operator of a micro-loan provider needing to build a relational database. You hired some students from the MIST 4610 class at the University of Georgia to create the database for you. They need to know more about your organization to identify which entities, attributes, and relationships are important for you. Start by describing your business as a real client
+
 We were tasked to create a relational database for micro-loan provider Empower Microfinance Solutions. They offer different kinds of loans to various clients, which are tracked through the various entities described below. They also wanted to track different components of their firm internally, such as the different employees and branches. We wanted to accurately portray the relationships between these entities, as well as populate each table with data that Empower can use to gain further insights into their clients, loans, and employees. Additionally, we wrote 10 sample queries for our client to show the functionality, usability, and power of the database we created and how they could further use it to advance their business objectives.
 
 DATA MODEL:
