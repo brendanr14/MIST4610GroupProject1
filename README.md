@@ -10,7 +10,7 @@ TEAM MEMBERS:
 2. Roshan Maganti
 3. Areez Shaikh | [@areezshaikh](https://github.com/areezshaikh/MIST4610GroupProject1)
 4. Jack Gannon
-5. Brayden Keller
+5. Brayden Keller | [@braydok12](https://github.com/braydok12/MIST4610GroupProject1)
 6. Ella Gunning
 
 PROBLEM DESCRIPTION:
