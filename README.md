@@ -159,7 +159,7 @@ List each industry and calcualte the total remaining loan balance for each indus
 
 <img width="1145" alt="Screenshot 2024-03-27 at 5 48 22 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/b9f4b484-1392-43dd-bcf1-34c912dfef90">
 
-This query calculates the remaining loan balance for each industry to which the bank has lent money. This information is crucial for the bank to assess the financial health of various industries, which can significantly impact the probability of loan repayments. They can also then determine which industries are the most risky and least risky to give out loans to.
+This query calculates the remaining loan balance for each industry to which the bank has lent money. This information is crucial for the bank to assess the financial health of various industries, which can significantly impact the probability of loan repayments. They can also then determine which industries are the most risky and least risky to give out loans to. Null value in industry indicates that client is not a part of a business.
 
 
 
