@@ -31,12 +31,66 @@ From LoanOfficer, we switch to a more internal focus on the databse. LoanOfficer
 
 DATA DICTIONARY:
 ---------------------
+Table: Branch
+
+<img width="321" alt="Screenshot 2024-03-26 at 8 51 30 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/d03faa0e-3219-445e-8ffd-5f14a1a8a05e">
+
+
 Table: Client
-<img width="334" alt="Screenshot 2024-03-26 at 8 36 51 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/9d51042d-1790-49ce-9355-4f1bbe1b3cad">
+
+<img width="316" alt="Screenshot 2024-03-26 at 8 41 22 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/2199e547-8d73-4007-a25f-9761e6899557">
+
+
+Table: ClientAccount
+
+<img width="316" alt="Screenshot 2024-03-26 at 8 48 32 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/1c308af9-ea13-4244-bba7-18665f3e4c90">
+
+
+Table: Collateral
+
+<img width="341" alt="Screenshot 2024-03-26 at 8 52 48 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/3462a4d2-b4c7-4046-985a-c8567d7b0a54">
 
 
 Table: CreditScore
-<img width="329" alt="Screenshot 2024-03-26 at 8 35 59 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/92a01e1d-2a73-4973-a12e-eb43889bbbb2">
+
+<img width="329" alt="Screenshot 2024-03-26 at 8 35 59 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/d0c6b703-416a-448c-a037-a504528afc63">
+
+
+Table: Employee
+
+<img width="323" alt="Screenshot 2024-03-26 at 8 52 01 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/38018911-352b-40ab-9407-4b0b7827e83f">
+
+
+Table: FinancialProduct
+
+<img width="315" alt="Screenshot 2024-03-26 at 8 50 39 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/f635205a-ccd4-4f57-988b-345700f67863">
+
+
+Table: Loan
+
+<img width="315" alt="Screenshot 2024-03-26 at 8 49 17 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/cba59cc6-7444-4c4a-8ee0-8e1e388b9a75">
+
+
+Table: LoanApplication
+
+<img width="314" alt="Screenshot 2024-03-26 at 8 42 57 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/f8a331a3-4626-4c66-a90d-ed72d37f9508">
+
+
+Table: LoanOfficer
+
+<img width="314" alt="Screenshot 2024-03-26 at 8 51 09 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/daa694c2-e62d-4602-a03d-3fd3218ab604">
+
+
+Table: Payment
+
+<img width="328" alt="Screenshot 2024-03-26 at 8 53 05 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/0f4c668a-b929-4d61-ad4c-a4b727a85436">
+
+
+Table: Transaction
+
+<img width="322" alt="Screenshot 2024-03-26 at 8 52 21 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/651cf481-1913-402e-bb92-91436a3f5548">
+
+
 
 QUERIES:
 -----------
