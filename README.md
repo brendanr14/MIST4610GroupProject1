@@ -29,6 +29,13 @@ The Loan entity is also related to other entities, such as Payment and Transacti
 
 From LoanOfficer, we switch to a more internal focus on the databse. LoanOfficer is related to the Branch table with a one-to-many relationship. Each branch has many loan officers, but a loan officer only belongs to one branch of the company. This relationship can also help us track information about branch success when it comes to loans through the use of foreign keys. Finally is the Employee table, which tracks all other kinds of employees that work for Empower. This has a one-to-many relationship with Branch, as each branch has many employees, but an employee may only belong to one branch. 
 
+(Data model would not fit in one picture clearly)
+
+<img width="468" alt="model1" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/e30026fa-783b-44e8-a0e3-611a16a1d1f7">
+<img width="468" alt="model2 2" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/a0c23cf3-57ae-4716-a676-b53d55f348b4">
+
+
+
 DATA DICTIONARY:
 ---------------------
 Table: Branch
