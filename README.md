@@ -32,6 +32,7 @@ From LoanOfficer, we switch to a more internal focus on the databse. LoanOfficer
 DATA DICTIONARY:
 ---------------------
 Table: Client
+<img width="334" alt="Screenshot 2024-03-26 at 8 36 51 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/9d51042d-1790-49ce-9355-4f1bbe1b3cad">
 
 
 Table: CreditScore
