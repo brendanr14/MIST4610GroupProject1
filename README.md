@@ -155,7 +155,7 @@ This query identifies loans that are at a high risk of default based on customer
 
 
 Query 6:
-List each industry and calcualte the total remaining loan balance for each industry.
+List each industry and calculate the total remaining loan balance for each industry.
 
 <img width="1145" alt="Screenshot 2024-03-27 at 5 48 22 PM" src="https://github.com/brendanr14/MIST4610GroupProject1/assets/149964823/b9f4b484-1392-43dd-bcf1-34c912dfef90">
 
