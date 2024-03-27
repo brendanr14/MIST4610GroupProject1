@@ -8,7 +8,7 @@ TEAM MEMBERS:
 -------------------------
 1. Brendan Rice | [@brendanr14](https://github.com/brendanr14/MIST4610GroupProject1)
 2. Roshan Maganti
-3. Areez Shaikh | [@areezshaikh](https://github.com/areezshaikh/MIST4610)
+3. Areez Shaikh | [@areezshaikh](https://github.com/areezshaikh/MIST4610GroupProject1)
 4. Jack Gannon
 5. Brayden Keller
 6. Ella Gunning
