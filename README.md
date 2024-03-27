@@ -99,4 +99,5 @@ QUERIES:
 DATABASE INFORMATION:
 -------
 Name of attributed Database: ns_Sp24_21484
+
 Additional Information: Each query listed above is marked in the database using stored procedures which can be called using the following format: ____
